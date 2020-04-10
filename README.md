@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Database!](README.md)
-* [DAY 1 :GETTING STARTED](day-1.md)
-* [DAY 2 : QUERY DATA](day-2-query-data.md)
+* basics
+  - [Database intro](intro.md)
+  - [DAY 1 :GETTING STARTED](basics/day-1.md)
+  - [DAY 2 : QUERY DATA](basics/day-2.md)
 
